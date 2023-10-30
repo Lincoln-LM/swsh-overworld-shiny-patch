@@ -2,6 +2,8 @@
 Patches/Cheats enabling shiny pokemon to be visible in the overworld in pokemon sword and shield.
 # Please do not re-share without crediting me !
 
+# [Download](https://github.com/Lincoln-LM/swsh-overworld-shiny-patch/releases/)
+
 # Installation
 ## Patches
 ### Atmosphère
