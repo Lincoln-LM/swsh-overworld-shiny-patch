@@ -1,0 +1,5 @@
+[Visible Shiny Overworld Encounters]
+04000000 00EA265C 52800027
+
+[63% Shiny Odds]
+04000000 00D314B8 713fff3f
