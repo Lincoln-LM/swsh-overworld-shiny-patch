@@ -2,10 +2,12 @@
 Patches/Cheats enabling shiny pokemon to be visible in the overworld in pokemon sword and shield.
 # Please do not re-share without crediting me !
 
+# [Download](https://github.com/Lincoln-LM/swsh-overworld-shiny-patch/releases/)
+
 # Installation
 ## Patches
 ### Atmosphère
-- Extract the zip to the root of your sd card and it should create ``sdmc://exefs_patches/swsh-overworld-shiny-patch/A16802625E7826BF83B6F9708E475B912A9AB7DF000000000000000000000000.ips`` (shield) and ``sdmc://exefs_patches/swsh-overworld-shiny-patch/A3B75BCD3311385AEED67FBEEB79CBB7BF02F471000000000000000000000000.ips`` (sword)
+- Extract the zip to the root of your sd card and it should create ``sdmc://atmosphere/exefs_patches/swsh-overworld-shiny-patch/A16802625E7826BF83B6F9708E475B912A9AB7DF000000000000000000000000.ips`` (shield) and ``sdmc://atmosphere/exefs_patches/swsh-overworld-shiny-patch/A3B75BCD3311385AEED67FBEEB79CBB7BF02F471000000000000000000000000.ips`` (sword)
 - You can remove the .ips file for the game you do not want to patch if you would only like to install the patch for one version
 - The ``boosted.zip`` file contains patches that include a boosted shiny rate for overworld pokemon (~63%) for testing that the shiny models work
 - The ``regular.zip`` patches contain only whats needed to display shiny models when a overworld spawn is shiny
